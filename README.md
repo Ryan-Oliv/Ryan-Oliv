@@ -27,23 +27,42 @@ tecnólogo na área.
 
 ### Stack & Languages
 
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=oracle&logoColor=00BFFF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00BFFF)
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=oracle&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF" />
+</div>
 
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00BFFF)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00BFFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00BFFF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF)
-![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF)
+<div align="center"><strong>PL/SQL · ETL · Modelagem de Dados · Machine Learning · Storytelling com Dados</strong></div>
 
-PL/SQL · ETL · Modelagem de Dados · Machine Learning · Storytelling com Dados
+---
 
-<br>
+### Dashboards
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Oliv&theme=gotham&layout=compact&hide_border=true&langs_count=8)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ryan-Oliv&show_icons=true&theme=gotham&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=Ryan-Oliv&theme=gotham&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Oliv&theme=gotham&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ryan-Oliv/Ryan-Oliv/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
@@ -65,5 +84,11 @@ PL/SQL · ETL · Modelagem de Dados · Machine Learning · Storytelling com Dado
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://linkedin.com/in/ryan-oliv)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Ryan-Oliv)
+<div align="center">
+  <a href="https://linkedin.com/in/ryan-oliv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
+  </a>
+  <a href="https://github.com/Ryan-Oliv" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF" />
+  </a>
+</div>
