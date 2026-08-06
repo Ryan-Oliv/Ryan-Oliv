@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ryan-Oliv/Ryan-Oliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Analista+de+Dados;SQL+%C2%B7+Python+%C2%B7+Power+BI;Investigando+dados+desde+2024)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Ryan Oliveira
+
+Analista de Dados focado em SQL, Python e Business Intelligence.
+
+Atuo hoje na TOTVS Juritis, sustentando as estruturas de banco de dados
+que alimentam relatórios de faturamento e controladoria para mais de
+140 clientes. Nas horas livres, construo um pipeline completo de
+análise de risco de crédito — do SQL ao Machine Learning, dashboard e
+nuvem.
+
+Enquanto o Batman investiga crimes em Gotham, eu investigo divergências
+entre sistemas — o traje é mais discreto, mas o instinto de detetive é
+o mesmo.
+
+Formado em Banco de Dados (Ciência de Dados / BI) e cursando um segundo
+tecnólogo na área.
+
+---
+
+### Stack & Languages
+
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=oracle&logoColor=00BFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00BFFF)
+
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00BFFF)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00BFFF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00BFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF)
+
+PL/SQL · ETL · Modelagem de Dados · Machine Learning · Storytelling com Dados
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Oliv&theme=gotham&layout=compact&hide_border=true&langs_count=8)
+
+---
+
+### Current Work
+
+- 💼 Analista de Dados @ **TOTVS Juritis**
+- 🛠️ Desenvolvimento e otimização de views, procedures e cursores em Oracle PL/SQL
+- 🔄 Conciliação de dados e investigação de divergências entre sistemas (SisJuri, LegalDesk, Protheus)
+- 📊 Construindo um projeto de portfólio: risco de crédito, do SQL ao dashboard em Power BI
+
+---
+
+### Featured Project
+
+📊 **Análise de Risco de Crédito** — pipeline completo (SQL → Python → ML → Power BI → AWS)
+🔗 [github.com/Ryan-Oliv/analise-risco-credito](https://github.com/Ryan-Oliv/analise-risco-credito)
+
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://linkedin.com/in/ryan-oliv)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Ryan-Oliv)
